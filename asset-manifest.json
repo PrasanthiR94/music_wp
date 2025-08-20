@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/music_wp/static/css/main.fb8e6e76.css",
+    "main.js": "/music_wp/static/js/main.8d67468f.js",
+    "static/js/453.6546a170.chunk.js": "/music_wp/static/js/453.6546a170.chunk.js",
+    "static/media/violin.jpg": "/music_wp/static/media/violin.84480fe35348b41b2859.jpg",
+    "static/media/parallax.jpg": "/music_wp/static/media/parallax.de855891d6abacfbb820.jpg",
+    "static/media/drums.jpg": "/music_wp/static/media/drums.921991ad6bba40281fa4.jpg",
+    "static/media/banner.jpg": "/music_wp/static/media/banner.b5c18df3ed13fefe58f1.jpg",
+    "static/media/NeutrafaceText-BookItalic.woff": "/music_wp/static/media/NeutrafaceText-BookItalic.13568427c48a6e7f7763.woff",
+    "static/media/NeutrafaceText-DemiItalic.woff": "/music_wp/static/media/NeutrafaceText-DemiItalic.ab8d2307a9706f558557.woff",
+    "static/media/logo.png": "/music_wp/static/media/logo.f651bebab873ff20fbef.png",
+    "static/media/NeutrafaceText-BoldItalic.woff": "/music_wp/static/media/NeutrafaceText-BoldItalic.1145e46bba771420c3ce.woff",
+    "static/media/NeutrafaceText-LightItalic.woff": "/music_wp/static/media/NeutrafaceText-LightItalic.4ad8056d2db84aa3db2a.woff",
+    "static/media/NeutrafaceText-Bold.woff": "/music_wp/static/media/NeutrafaceText-Bold.db28c777dc9fe8591efe.woff",
+    "static/media/NeutrafaceText-Book.woff": "/music_wp/static/media/NeutrafaceText-Book.ba87b46d886d71bfc2f7.woff",
+    "static/media/NeutrafaceText-Demi.woff": "/music_wp/static/media/NeutrafaceText-Demi.dcaaecc6513ee59cd54e.woff",
+    "static/media/NeutrafaceText-Light.woff": "/music_wp/static/media/NeutrafaceText-Light.4fea81ab7d72c859893d.woff",
+    "static/media/guittar.png": "/music_wp/static/media/guittar.78c5d170b80ff1d569b5.png",
+    "static/media/NeutrafaceText-BookItalic.woff2": "/music_wp/static/media/NeutrafaceText-BookItalic.79835920778444c5f118.woff2",
+    "static/media/NeutrafaceText-DemiItalic.woff2": "/music_wp/static/media/NeutrafaceText-DemiItalic.cb8ef5cf0a5d9230e137.woff2",
+    "static/media/NeutrafaceText-BoldItalic.woff2": "/music_wp/static/media/NeutrafaceText-BoldItalic.04fc952eb22b7b3d5f27.woff2",
+    "static/media/NeutrafaceText-Book.woff2": "/music_wp/static/media/NeutrafaceText-Book.f7560ff0ed7bd3bdf09d.woff2",
+    "static/media/NeutrafaceText-Bold.woff2": "/music_wp/static/media/NeutrafaceText-Bold.c647f630f3172cac051d.woff2",
+    "static/media/NeutrafaceText-Demi.woff2": "/music_wp/static/media/NeutrafaceText-Demi.ec11fdc07ae4c6ae6a8e.woff2",
+    "static/media/NeutrafaceText-LightItalic.woff2": "/music_wp/static/media/NeutrafaceText-LightItalic.968a7d46ac63b22a87ef.woff2",
+    "static/media/NeutrafaceText-Light.woff2": "/music_wp/static/media/NeutrafaceText-Light.be90ca73b99f33fb3da2.woff2",
+    "static/media/logo.svg": "/music_wp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/music_wp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/music_wp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/music_wp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/music_wp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/music_wp/index.html",
+    "main.fb8e6e76.css.map": "/music_wp/static/css/main.fb8e6e76.css.map",
+    "main.8d67468f.js.map": "/music_wp/static/js/main.8d67468f.js.map",
+    "453.6546a170.chunk.js.map": "/music_wp/static/js/453.6546a170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8e6e76.css",
+    "static/js/main.8d67468f.js"
+  ]
+}

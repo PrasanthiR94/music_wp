@@ -1,4 +1,5 @@
-.sign_in_btn {
+@media only screen and (max-width: 700px) {
+    .sign_in_btn {
     text-align: center;
 }
 
@@ -102,4 +103,5 @@
 }
 .Productstab_cover { 
     width: 80%;
+}
 }

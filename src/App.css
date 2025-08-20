@@ -1,5 +1,85 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: 'Neutraface Text';
+  src: url('./fonts/NeutrafaceText-Bold.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text';
+  src: url('./fonts/NeutrafaceText-BoldItalic.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text Book';
+  src: url('./fonts/NeutrafaceText-BookItalic.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-BookItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text Book';
+  src: url('./fonts/NeutrafaceText-Book.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text Demi';
+  src: url('./fonts/NeutrafaceText-DemiItalic.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-DemiItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text';
+  src: url('./fonts/NeutrafaceText-Light.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text Demi';
+  src: url('./fonts/NeutrafaceText-Demi.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-Demi.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neutraface Text';
+  src: url('./fonts/NeutrafaceText-LightItalic.woff2') format('woff2'),
+      url('./fonts/NeutrafaceText-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+*{
+  font-family:"Neutraface Text" ;
+}
+:root{
+  --base_color:#ddd;
+  
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .App-logo {

@@ -1,0 +1,36 @@
+.sign_in_btn {
+    text-align: center;
+}
+
+.sign_in_modal .MuiFormControl-root {
+    margin-bottom: 20px;
+}
+
+.categories_wrap h2 {
+    text-align: center;
+}
+
+.categories_wrap {
+    margin: 50px 0;
+}
+
+.products_cover h2 {
+    text-align: center;
+}
+
+.parallax_content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parallax_inner {
+    position: absolute;
+    background: #4d4d4b3d;
+    width: 80%;
+    padding: 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}

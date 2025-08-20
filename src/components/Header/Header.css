@@ -1,0 +1,122 @@
+.topMenu {display: flex;justify-content: flex-end;background: #c7a58a;}
+
+.topMenu ul li {
+    display: inline;
+    padding: 0 10px;
+    font-size: 13px;
+}
+
+.topMenu ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.topMenu ul {
+    padding: 0;
+    margin: 0;
+}
+
+.logo_section img {
+    width: 120px;
+}
+
+.bottomHeader {
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    border-bottom: 1px solid #c7a58a;
+}
+.loginSection {
+    display: flex;
+}
+
+.login_wrap {
+    display: flex
+;
+    position: relative;
+}
+
+.icon_tab 
+ {
+    display: flex
+;
+    align-items: center;
+    justify-content: center;
+    color: #c7a58a;
+    margin-left: 27px;
+    cursor: pointer;
+    position: relative;
+}
+span.cart_item_num {
+    position: absolute;
+    top: -2px;
+    background: #c7a58a;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    color: #ffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: -21px;
+}
+.icon_tab p {
+    color: #847f7f;
+    margin-left: 4px;
+}
+.icon_right_sec {
+    display: flex
+;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+/* submenu  */
+.submenu_menu {
+    position: absolute;
+    top: 41px;
+    background: #ffffff;
+    border: 1px solid #c7a58a;
+    border-radius: 5px;
+    padding: 10px;
+    left: 28px;
+    width: 150px;
+}
+.submenu_menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.submenu_menu ul li {
+    margin-bottom: 7px;
+    cursor: pointer;
+     transition: transform 0.3s ease;
+     position: relative;
+}
+
+
+.submenu_menu ul li::after {
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background-color: #c7a58a; /* underline color */
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.submenu_menu ul li:hover::after {
+  transform: scaleX(1);
+}
+
+.sign_in_btn {
+    text-align: center;
+}
+
+.sign_in_modal .MuiFormControl-root {
+    margin-bottom: 20px;
+}

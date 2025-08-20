@@ -1,0 +1,18 @@
+button.common_btn {
+    background: #c7a58a;
+    border: 0;
+    border-radius: 5px;
+    padding: 8px 20px;
+    color: #ffff;
+    transition: .5s;
+    cursor: pointer;
+        font-size: 15px;
+}
+button.common_btn:hover {
+    background: #8f7a69;
+    transition: .5s;
+}
+button.common_btn span {
+    padding: 0 16px;
+    text-align: center;
+}

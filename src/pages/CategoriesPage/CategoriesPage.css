@@ -1,0 +1,16 @@
+.category_content {
+    display: flex
+;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 70px 0;
+}
+.categories_cover {
+    padding: 0 8%;
+}
+.categories_top_head 
+ {
+    margin-bottom: 32px;
+    text-align: center;
+}

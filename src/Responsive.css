@@ -1,0 +1,105 @@
+.sign_in_btn {
+    text-align: center;
+}
+
+.sign_in_modal .MuiFormControl-root {
+    margin-bottom: 20px;
+}
+
+.categories_wrap h2 {
+    text-align: center;
+}
+
+.categories_wrap {
+    margin: 50px 0;
+}
+
+.products_cover h2 {
+    text-align: center;
+}
+
+.parallax_content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parallax_inner {
+    position: absolute;
+    background: #4d4d4b3d;
+    width: 80%;
+    padding: 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+.footer-top {
+    background: #c7a58a;
+}
+
+.footer-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 3%;
+}
+
+.logo_sec img {
+    width: 100px;
+}
+
+.footer_menu ul li {
+    display: inline-block;
+    padding: 0 20px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.bottomHeader {
+    flex-direction: column;
+    padding: 0 10px;
+}
+
+.logo_section img {
+    width: 93px;
+}
+
+.icon_tab {
+    margin-left: 10px;
+    justify-content: space-between;
+}
+
+.icon_right_sec {
+    justify-content: space-between;
+}
+
+.categories_inner_wrap {
+    flex-direction: column;
+}
+
+.luxury-card {
+    width: 100%;
+    height: auto;
+    margin-bottom: 37px;
+}
+
+.productDetails_content {
+    flex-direction: column;
+}
+
+.productDetails_img {
+    width: 100%;
+}
+
+.productDetails_details {
+    width: 100%;
+}
+.categories_cover {
+    padding: 0 3%;
+}
+.Productstab_cover { 
+    width: 80%;
+}
